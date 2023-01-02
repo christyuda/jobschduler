@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JOBMORSE</string>
+    <string name="Job_service_message" />
+    <string name="Ran_job" />
+</resources>
